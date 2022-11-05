@@ -1,12 +1,12 @@
-src="https://www.mastercard.com/news/media/vlfhx54n/cyber-tips-alt-banner.png?rnd=132791406581570000" width="1000" height="200">
+src="https://www.mastercard.com/news/media/vlfhx54n/cyber-tips-alt-banner.png?rnd=132791406581570000" width="800" height="200">
 <h1 align="center">Hi, I`m Atilla</h1>
 <h3 align="center">2X Certified Salesforce Developer</h3>
 <h3 align="center"> Salesforce Developer</h3>
 <ul>
   <li>Open to new opportunities!</li>
   <li>HTML, CSS, Javascript, Apex, LWC, Aura, Integration, SOQL, Python, React, RN, MongoDB, NodeJS, SQL, Agile </li>
-  <li><strong>linkedIn:</strong>  <a target="_blank" href="https://www.linkedin.com/in/ercan-yilmaz-uk"><strong>Ercan-Yilmaz-UK</strong></a> </li>
-  <li><strong>Trailhead: </strong> <a href="https://trailblazer.me/id/ercanyilmaz" target="_blank"><strong>Ercan Yilmaz</strong></a> </li>
+  <li><strong>linkedIn:</strong>  <a target="_blank" href="https://www.linkedin.com/in/atilla-uzun-b74859248/"><strong>Atilla-UZUN-UK</strong></a> </li>
+  <li><strong>Trailhead: </strong> <a href="https://trailblazer.me/id?lang=en_US" target="_blank"><strong>Atilla UZUN</strong></a> </li>
 </ul>
 
 <p align="justify">I am a Salesforce Developer with the skills of Apex, LWC, Aura, HTML, CSS, JAVASCRIPT, NODE JS, REACT, REACT-NATIVE, MONGO DB, SQL, SOQL, SOSL, AGILE, GIT & GITHUB, PYTHON,... I have management experience over 10 years.</p>
